@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Soy Diego Vazquez </h1>
-<h3 align="center">Desarrollador Web | Técnico en soporte técnico  | Estudiante de Ciencia de Datos</h3>
+<h3 align="center">Desarrollador Web | Técnico en computación  | Estudiante de Ciencia de Datos</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://www.facebook.com/akash.chowrasia.908/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
@@ -15,7 +15,7 @@
 
 <p align="center">
   <em>
-    Este soy YO, Diego Vazquez, un estudiante de <b>4to semestre</b> en <a href="https://www.acetamritsar.ac.in/"> <b>ciencia de datos para negocios</b>, Amritsar</a>. <br>
+    Este soy YO, Diego Vazquez, un estudiante de <b>5to semestre</b> en <a href="https://www.acetamritsar.ac.in/"> <b>ciencia de datos para negocios</b></a>. <br>
     Un <b>Desarrollador Full-Stack</b> en formación <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> y un <b>Entusiasta de la Programación Competitiva</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>que está <b>obsesionado</b>
     con la idea de <b>mejorarse</b> a sí mismo y quiere una <b>plataforma</b> para 
     <b>crecer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">y 
@@ -26,7 +26,7 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Vistas%20del%20perfil&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://github.com/Vazquez-Diego/assets/blob/main/gif.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Hablando de Cosas Personales...***
 
@@ -40,11 +40,11 @@
 ✔ Pregúntame lo que quieras, estoy feliz de ayudar, ¡solo si la pelota está en mi tejado!😉<br>
 ✔ Dato curioso: *En momentos de estrés programando, suelo estar medio dormido*<br><br><br><br>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Lenguajes y Herramientas que Conozco...***
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnI4aGtwZWk1azY1OWlvODhxZjg4M2ptOXZ1dTJvNnZzNWtzdHdoaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cNREyZCeJNOgJgxiWk/giphy.gif" width="30px">&nbsp;***Lenguajes y Herramientas que Conozco...***
 <p align="left">
   
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code>
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"></code>
+  <code><img height="50" src="https://www.pngplay.com/wp-content/uploads/7/Mysql-Logo-PNG-Photos.png"></code>
+  <code><img height="50" src="https://www.liblogo.com/img-logo/mo429m311-mongodb-logo-mongodb-logo-.png"></code>
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"></code>
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"></code>
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
@@ -73,39 +73,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-chowrasia&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-chowrasia&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
-
-<hr>
-
-Aquí tienes algunos [🦜 loros](https://cultofthepartyparrot.com):
-
-<div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-</div>
-
-<hr>
 
 ## 🔍 Proyecto: Detección de Fraudes en Transacciones Digitales
 
